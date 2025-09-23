@@ -1,0 +1,25 @@
+PASSOS PARRA CONECTAR DOCKER AO METABASE:
+🔹 Passo correto para CMD
+
+Crie a pasta para os dados do Metabase (se ainda não existir):
+
+mkdir C:\Users\tr20890ps\metabase-data
+
+
+Rode o Docker com o caminho absoluto:
+mkdir C:\Users\tr20890ps\metabase-data
+
+
+CONECTAR O POSTGRES NO METABASE:
+
+Solução mais confiável em rede corporativa
+
+Metabase container → PostgreSQL container no mesmo host Windows
+
+Use host: host.docker.internal
+
+Porta: 5434 (porta que você mapeou)
+
+Database, usuário e senha: dsadb, dsa, dsa1010
+
+SSL: desmarcado
