@@ -3,7 +3,7 @@ import jwt
 import time
 
 METABASE_SITE_URL = "http://localhost:3000"
-METABASE_SECRET_KEY = "8dfb049e27b99114f0b7a6ade89cec94dc288ae643a64bd1cf5446844132bd14"
+METABASE_SECRET_KEY = "cbc3835d29d5c0750fcf9eee6ca49796a8bca699aca1001021ac47cecb31072e"
 
 payload = {
     "resource": {"question": 51},

@@ -1,0 +1,23 @@
+Total de vendas por cliente
+SELECT DC.ID_CLIENTE, DC.NOME, SUM(QUANTIDADE * VALOR_UNITARIO) AS VALOR_TT2
+FROM DW.DIM_CLIENTE DC
+JOIN DW.FATO_VENDAS FV ON DC.ID_CLIENTE=FV.ID_CLIENTE
+GROUP BY DC.ID_CLIENTE, DC.NOME
+ORDER BY VALOR_TT2 DESC;
+
+
+TOTAL DE CLIENTES POR ESTADO
+SELECT estado, count(id_cliente) as clientes_por_estado
+FROM DW.dim_cliente
+GROUP BY estado
+ORDER BY clientes_por_estado DESC;
+
+Total de produtos vendidos por categoria
+SELECT DP.categoria, FV.quantidade 
+FROM DW.dim_produto DP 
+JOIN DW.fato_vendas FV
+ON DP.id_produto=FV.id_produto
+ORDER BY QUANTIDADE;
+
+
+
