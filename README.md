@@ -45,3 +45,6 @@ dim_produtos → dados dos produtos.
 dim_tempo → datas e atributos de tempo.
 
 fato_vendas → tabela fato que armazena as métricas (quantidade, valor, total).
+
+
+LINK PARA VIZUALIZAÇÃO DE ALGUNS GRÁFICOS: http://localhost:3000/public/dashboard/b01cbc05-0732-4102-b3d2-1368726034d2
