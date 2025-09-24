@@ -47,4 +47,7 @@ dim_tempo → datas e atributos de tempo.
 fato_vendas → tabela fato que armazena as métricas (quantidade, valor, total).
 
 
-LINK PARA VIZUALIZAÇÃO DE ALGUNS GRÁFICOS: http://localhost:3000/public/dashboard/b01cbc05-0732-4102-b3d2-1368726034d2
+Imagens de alguns gráficos gerados através de análise de dados no metabase, implementados pelo jwt com python(generate_dashboard.py) e html(dashboard.html):
+
+<img width="1919" height="1079" alt="Screenshot_99" src="https://github.com/user-attachments/assets/b1690567-7d7b-48d0-87b9-842125263b14" />
+
