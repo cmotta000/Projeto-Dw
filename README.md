@@ -51,3 +51,6 @@ Imagens de alguns gráficos gerados através de análise de dados no metabase, i
 
 <img width="1919" height="1079" alt="Screenshot_99" src="https://github.com/user-attachments/assets/b1690567-7d7b-48d0-87b9-842125263b14" />
 
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/f0a9c33c-c50b-4ab1-a60a-2919821d1f9b" />
+
+
