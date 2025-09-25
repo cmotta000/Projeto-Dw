@@ -53,4 +53,9 @@ Imagens de alguns gráficos gerados através de análise de dados no metabase, i
 
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/f0a9c33c-c50b-4ab1-a60a-2919821d1f9b" />
 
+<img width="1911" height="997" alt="image" src="https://github.com/user-attachments/assets/40ba665c-5635-4807-ab6d-beb5f3f38edb" />
+
+<img width="1971" height="633" alt="image" src="https://github.com/user-attachments/assets/a0a394b7-fb8e-4ca7-8ed2-2a17b2bac644" />
+
+
 
